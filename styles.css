@@ -1,0 +1,40 @@
+h1, p {
+  text-align: center;
+}
+.container {
+  display: table;
+  width: 100%;
+  height: 100px;
+}
+.main-controls {
+  width: 10%;
+}
+.main-grid {
+  text-align: center;
+  width: 80%;
+}
+.main-score {
+  text-align: right;
+  width: 10%;
+}
+.main-cell {
+  display: table-cell;
+}
+.timer-label {
+  font-size: 40px;
+}
+.score-label {
+  margin-top: 30px;
+  font-size: 40px;
+}
+#timer, #score {
+  font-size: 40px;
+  font-weight: bold;
+}
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+table td {
+  border: 1px solid black;
+}
