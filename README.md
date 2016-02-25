@@ -1,6 +1,6 @@
 # Whack a mole game
 
-Very simple whack a mole game in JavaScript
+Very simple whack a mole game in JavaScript, you can play [here](https://benoitvallon.github.io/whack-a-mole-game).
 
 # Installation
 
